@@ -1,4 +1,4 @@
-![Tutorials](images/tutorial-banner.png)
+![tutorials](images/tutorials.svg)
 
 
 # Neuralspace Tutorials
