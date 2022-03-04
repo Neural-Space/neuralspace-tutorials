@@ -5,14 +5,14 @@
 This is a Directory of tutorials that can be created using NeuralSpace Apps. <br> 
 If you have created a cool tutorial using our apps and wish to add it here, please create a PR.
 
-# Official Start Resources
+## Official Start Resources
 
 * [NeuralSpace Documentation](https://docs.neuralspace.ai/)
 * [NeuralSpace Platform](https://platform.neuralspace.ai/)
 
 # NeuraLingo Tutorials
 
- ## 👉 **Hate Police Twitter Bot**: 
+ ### 👉 **Hate Police Twitter Bot**: 
  
  [![Open In Collab](images/collab.svg)](https://colab.research.google.com/drive/1tPcn9RcxF9AS37HWpdJLCPNOSv98Mt9i?usp=sharing)
  &emsp;
@@ -25,7 +25,7 @@ If you have created a cool tutorial using our apps and wish to add it here, plea
  - Let us use **NeuralSpace's NeuraLingo** to build an **end-to-end Twitter bot** which classfies hate and offensive tweets in **English, Hindi and Marathi languages**. 
 
 
- ## 👉 **Citizen Services**: 
+ ### 👉 **Citizen Services**: 
 
 [![Open In Collab](images/collab.svg)](https://drive.google.com/file/d/1nMVVnfKmddPQISUr4JKPR71HGLYksab9/view?usp=sharing) 
 
@@ -38,7 +38,7 @@ If you have created a cool tutorial using our apps and wish to add it here, plea
 - Let us use **NeuralSpace's NeuraLingo** to build a Citizen Services NLU in **8 languages** namely, **English, Hindi, Bengali, Punjabi, Tamil, Telugu, Gujarati and Marathi**.
 
 
- ## 👉 **E-commerce Services**: 
+ ### 👉 **E-commerce Services**: 
 
  [![Open In Collab](images/collab.svg)](https://colab.research.google.com/drive/1l5m47Wv3flfdEPbeX6cCSIsoEZKe7Bu4?usp=sharing)
  
@@ -48,7 +48,7 @@ If you have created a cool tutorial using our apps and wish to add it here, plea
 
  # Transliteration Tutorials
 
- ## 👉 **Transliteration Twitter Bot**: 
+ ### 👉 **Transliteration Twitter Bot**: 
  [![Open In GitHub](images/github_badge.svg)](https://github.com/Neural-Space/neuralspace-transliteration-tutorial)
 
  - Through this transliteration bot, you can set your own **custom trigger phase** such that whenever anyone on twitter replies to a tweet mentioning this phrase, the bot transliterates the tweet in reply. 
